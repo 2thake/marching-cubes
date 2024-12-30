@@ -35,7 +35,7 @@ Marching cubes algorithm implemented in C# and Unity.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/unity-marching-cubes.git
+   git clone https://github.com/2thake/marching-cubes.git
 
 2.	**Open in Unity:**
 	- Launch Unity Hub.
